@@ -1,6 +1,8 @@
 ### Hey, I'm Bhuvaneshwari 👋
 
-I'm a solo founder and full-stack engineer building products at the intersection of **AI and real-world operations**.
+**Baby steps to LLMs, Agents, and Production AI.**
+
+Solo founder and full-stack engineer building products at the intersection of **AI and real-world operations**.
 
 #### What I'm Building
 
@@ -21,7 +23,7 @@ I write strict TypeScript, type-hinted Python, and idiomatic Go. Every service h
 
 #### Why It Matters
 
-**Farmaze** is solving a ₹2 lakh crore+ procurement problem in India's food service industry — fragmented supply chains, zero digitization, WhatsApp-driven chaos turned into structured operations.
+**Farmaze** is solving B2B procurement for the food service industry — fragmented supply chains, zero digitization, messaging-driven chaos turned into structured operations.
 
 **Zeverity** replaces the 3 AM scramble of checking 10 dashboards during an outage with an AI agent that does the investigation for you.
 
