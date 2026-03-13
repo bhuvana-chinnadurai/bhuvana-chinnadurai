@@ -52,4 +52,4 @@ I write about production patterns for AI agents — [blog-drafts](https://github
 
 **Open to conversations with investors and collaborators building in AI or B2B SaaS.**
 
-[LinkedIn](https://linkedin.com/in/bhuvaneshwari-chinnadurai) · [Twitter](https://twitter.com/bhaborium) · [Email](mailto:bhuvana.chinnadurai@gmail.com)
+[LinkedIn](https://linkedin.com/in/bhuvaneshwari-chinnadurai) · [Email](mailto:bhuvana.chinnadurai@gmail.com)
