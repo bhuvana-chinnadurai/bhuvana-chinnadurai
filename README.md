@@ -1,8 +1,6 @@
 ### Hey, I'm Bhuvaneshwari 👋
 
-**Baby steps to LLMs, Agents, and Production AI.**
-
-Solo founder and full-stack engineer building products at the intersection of **AI and real-world operations**.
+I'm a solo founder and full-stack engineer building products at the intersection of **AI and real-world operations**.
 
 #### What I'm Building
 
