@@ -29,6 +29,22 @@ I write strict TypeScript, type-hinted Python, and idiomatic Go. Every service h
 
 - **[Farmaze Architecture](https://github.com/bhuvana-chinnadurai/farmaze-architecture)** — 12-service system design, AI/ML pipelines, tech decision log
 - **[Zeverity Design](https://github.com/bhuvana-chinnadurai/zeverity-design)** — 8-node LangGraph investigation agent, 43 tools, incident learning system
+- **[LeadFlow Design](https://github.com/bhuvana-chinnadurai/leadflow-design)** — Multi-channel outreach, in-house AI voice calling, signal engine
+- **[AI Pipeline Design](https://github.com/bhuvana-chinnadurai/ai-pipeline-design)** — CI/CD for AI apps: eval, security, cost, canary deploys
+- **[InstaSlide Design](https://github.com/bhuvana-chinnadurai/instaslide-design)** — Go + chromedp carousel generator, multi-script rendering
+- **[Terraform AWS Secrets](https://github.com/bhuvana-chinnadurai/terraform-aws-secrets-design)** — Feature-flag Terraform module: rotation, KMS, replication
+
+#### Technical Writing
+
+I write about production patterns for AI agents — [blog-drafts](https://github.com/bhuvana-chinnadurai/blog-drafts):
+
+- LangGraph: Prototype to Production (6 patterns from shipping agents)
+- Guardrails & Security Boundaries for Production Agents
+- Multi-Agent Coordination Patterns
+- Config-Driven Tool Registry (23 tools, zero boilerplate)
+- Agents That Learn From Their Own Outcomes
+- WebSocket Streaming for Long-Running Agents
+- Fuzzy Matching That Learns Your Users' Language
 
 ---
 
